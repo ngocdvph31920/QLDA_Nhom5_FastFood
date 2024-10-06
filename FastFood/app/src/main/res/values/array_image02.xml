@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="product_images_cat">
+
+        <item>@drawable/btn_1</item>
+        <item>@drawable/btn_2</item>
+        <item>@drawable/btn_3</item>
+        <item>@drawable/btn_4</item>
+        <item>@drawable/btn_5</item>
+        <item>@drawable/btn_6</item>
+        <item>@drawable/btn_7</item>
+        <item>@drawable/btn_8</item>
+        <!-- Thêm các tài nguyên drawable khác vào đây cho các sản phẩm khác -->
+
+    </array>
+</resources>

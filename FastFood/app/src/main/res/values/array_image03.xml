@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="product_images_pizza">
+
+        <item>@drawable/food_bbq</item>
+        <item>@drawable/hawaiian</item>
+        <item>@drawable/margherita</item>
+        <item>@drawable/meatpizza</item>
+        <item>@drawable/lovers</item>
+        <item>@drawable/supreme</item>
+
+        <!-- Thêm các tài nguyên drawable khác vào đây cho các sản phẩm khác -->
+
+    </array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="product_images">
+
+            <item>@drawable/margherita</item>
+            <item>@drawable/burger</item>
+            <item>@drawable/kimchi</item>
+            <item>@drawable/hotdog_food</item>
+            <!-- Thêm các tài nguyên drawable khác vào đây cho các sản phẩm khác -->
+
+    </array>
+</resources>
